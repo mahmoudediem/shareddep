@@ -1,3 +1,1 @@
-from .api_v3 import new_func
-
-__all__ = ["new_func"]
+from .api_v2 import legacy_func
